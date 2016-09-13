@@ -1,0 +1,9 @@
+use_frameworks!
+
+target 'shareViaUIActivityViewController_Example' do
+pod 'shareViaUIActivityViewController', :path => '../'
+
+target 'shareViaUIActivityViewController_Tests' do
+pod 'shareViaUIActivityViewController', :path => '../'
+end
+end

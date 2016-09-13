@@ -1,0 +1,6 @@
+framework module shareViaUIActivityViewController {
+  umbrella header "shareViaUIActivityViewController-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,6 @@
+#import <UIKit/UIKit.h>
+
+
+FOUNDATION_EXPORT double Pods_shareViaUIActivityViewController_Example_shareViaUIActivityViewController_TestsVersionNumber;
+FOUNDATION_EXPORT const unsigned char Pods_shareViaUIActivityViewController_Example_shareViaUIActivityViewController_TestsVersionString[];
+

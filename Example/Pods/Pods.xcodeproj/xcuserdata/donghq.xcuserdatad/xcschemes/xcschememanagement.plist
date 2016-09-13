@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>Pods-shareViaUIActivityViewController_Example-shareViaUIActivityViewController_Tests.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Pods-shareViaUIActivityViewController_Example.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>shareViaUIActivityViewController-shareViaUIActivityViewController.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>shareViaUIActivityViewController.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>14C3F8730EE07A846FF86205545288C4</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>924E46EF007B35AA47F565E624E48673</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>998C00D967ABC2DE88A6DD67F3D818CC</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>ECE92D65334FB2C3D51E837BC586661A</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>

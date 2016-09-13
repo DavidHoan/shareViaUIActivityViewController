@@ -1,0 +1,26 @@
+{
+  "name": "shareViaUIActivityViewController",
+  "version": "0.1.1",
+  "summary": "A short description of shareViaUIActivityViewController.",
+  "homepage": "https://github.com/DavidHoan/shareViaUIActivityViewController",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "DavidHoan": "mr.donghq@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/DavidHoan/shareViaUIActivityViewController.git",
+    "tag": "0.1.1"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "shareViaUIActivityViewController/Classes/**/*",
+  "resource_bundles": {
+    "shareViaUIActivityViewController": [
+      "shareViaUIActivityViewController/Assets/*.png"
+    ]
+  }
+}

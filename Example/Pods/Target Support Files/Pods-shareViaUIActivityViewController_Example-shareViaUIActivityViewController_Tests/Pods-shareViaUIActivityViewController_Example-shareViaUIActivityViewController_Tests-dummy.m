@@ -1,0 +1,5 @@
+#import <Foundation/Foundation.h>
+@interface PodsDummy_Pods_shareViaUIActivityViewController_Example_shareViaUIActivityViewController_Tests : NSObject
+@end
+@implementation PodsDummy_Pods_shareViaUIActivityViewController_Example_shareViaUIActivityViewController_Tests
+@end
